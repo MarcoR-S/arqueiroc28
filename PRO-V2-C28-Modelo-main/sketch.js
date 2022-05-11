@@ -109,21 +109,15 @@ function draw() {
   textSize(30);
   text("Pontuação: " + score, width - 200, 100);
 
-  /*if (numberOfArrows == 5) {
+
+
+ 
+
+  if (numberOfArrows = 0) {
     gameOver();
   }*/
 
-  /*if (numberOfArrows == 0) {
-    gameOver();
-  }*/
 
-  /*if (numberOfArrows = 0) {
-    gameOver();
-  }*/
-
-  /*if (numberOfArrows == 0) {
-    gameOver;
-  }*/
 
 }
 
